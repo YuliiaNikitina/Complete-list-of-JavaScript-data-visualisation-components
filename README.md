@@ -5,7 +5,7 @@ This is a complete list of JavaScript data visualisation components and librarie
 ## Charts
  Name | License | Integration | About |
  --------- | ---------- | --------- | ------- |
- |  |  |  |
+ [amCharts](http://www.amcharts.com/) | 	 |  |  |
 
 ## Data tables
  Name | License | Integration | About |
@@ -31,3 +31,5 @@ This is a complete list of JavaScript data visualisation components and librarie
  Name | License | Integration | About |
  --------- | ---------- | --------- | ------- |
  |  |  |  |
+
+If you have something to add to the list, I'll be happy to consider your suggestions!
