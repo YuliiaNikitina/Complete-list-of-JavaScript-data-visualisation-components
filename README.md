@@ -2,7 +2,7 @@
 
 This is a complete list of JavaScript data visualisation components and libraries for report app development. The list contains information about licensing and integration of the component, as well as some additional info. The components are divided in tables be their types.
 
-* - in Frameworks means that it is not specified for some frameworks or doesn't has any special wrappers.
+P.S. "-" in Frameworks means that it is not specified for some frameworks or doesn't has any special wrappers.
 
 ## Charts
  Name | Free |  Frameworks | About |
@@ -72,7 +72,7 @@ This is a complete list of JavaScript data visualisation components and librarie
  [Jsdpreadsheets](https://jspreadsheets.com/jexcel/)| free | - | Best JavaScript Data Grids and Spreadsheets |
 [Backgridjs](https://backgridjs.com) | free | - | a set of components for building semantic and easily stylable data grid widgets. |
  [Tabulator](http://tabulator.info)| free | React, Angular, Vue.js | The easy to use, fully featured, interactive table JavaScript library |
-[NgTable]()https://github.com/esvit/ng-table | free | Angular | This directive enhances your HTML tables. It support sorting, filtering and pagination. Header row with titles and filters automatic generated. |
+[NgTable](https://github.com/esvit/ng-table) | free | Angular | This directive enhances your HTML tables. It support sorting, filtering and pagination. Header row with titles and filters automatic generated. |
  [EmberTable](https://github.com/Addepar/ember-table)| free | Ember | An addon to support large data set and a number of features around table. Ember Table can handle over 100,000 rows without any rendering or performance issues. |
   
  
