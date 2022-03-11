@@ -28,7 +28,7 @@ P.S. - in Frameworks means that it is not specified for some frameworks or doesn
  Name | Free |  Frameworks | About |
  --------- | ---------- | --------- | ------- |
 [React Table](https://react-table.tanstack.com/)| free | React | Lightweight and extensible data tables for React |
-[Ag-grid](https://www.ag-grid.com) | Free for non commercial use | React, Angular, Vue.js | The Best JavaScript Grid in the World |
+[Ag-grid](https://www.ag-grid.com) | Free Community Edition | React, Angular, Vue.js | The Best JavaScript Grid in the World |
 [Handsontable](https://handsontable.com) | free for evaluation and personal projects | React, Angular, Vue.js | A JavaScript component that  combines data grid features with spreadsheet-like UX. Legendary support included. |
 [DataTables](https://datatables.net) | free| - | Add advanced interaction controls to your HTML tables the free & easy way |
 [Grid js](https://gridjs.io) | free | React, Angular, Vue and VanillaJs | a Free and open-source JavaScript table plugin. It works with most JavaScript frameworks |
