@@ -2,7 +2,7 @@
 
 This is a complete list of JavaScript data visualisation components and libraries for report app development. The list contains information about licensing and integration of the component, as well as some additional info. The components are divided in tables be their types.
 
-P.S. - in Frameworks means that it is not specified for some frameworks or doesn't has any special wrappers.
+P.S. "-" in Frameworks means that it is not specified for some frameworks or doesn't has any special wrappers.
 
 ## Charts
  Name | Free |  Frameworks | About |
